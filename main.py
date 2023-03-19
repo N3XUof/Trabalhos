@@ -1,3 +1,4 @@
+#recomendo transformar o .py em .bat, não se preocupe! o app continua funcionando sem defeitos.
 #trabalhos escolares
 while (True):
     from playsound import playsound
